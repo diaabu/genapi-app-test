@@ -5,7 +5,7 @@ import os
 
 from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
 
-st.title('my first gen AI app')
+st.title('my first gen AI app V2')
 
 st.markdown("""
 this is a sample markdown
